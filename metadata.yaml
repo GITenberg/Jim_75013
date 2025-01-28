@@ -1,11 +1,16 @@
 _repo: Jim_75013
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75013-h/images/cover.jpg
 creator:
   author:
     agent_name: Strachan, A. A.
     gutenberg_agent_id: '57775'
     url: http://www.gutenberg.org/2009/agents/57775
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75013#Jim
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
